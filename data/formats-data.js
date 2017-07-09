@@ -863,6 +863,7 @@ exports.BattleFormatsData = {
 		tier: "NU",
 	},
 	slowbroalola: {
+		isNonstandard: true,
 		randomBattleMoves: ["venoshock", "toxic", "banefulbunker", "liquidation"],
 		randomDoubleBattleMoves: ["venoshock", "toxic", "banefulbunker", "liquidation"],
 		tier: "CAP",
