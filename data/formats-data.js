@@ -862,6 +862,11 @@ exports.BattleFormatsData = {
 		],
 		tier: "NU",
 	},
+	slowbroalola: {
+		randomBattleMoves: ["venoshock", "toxic", "banefulbunker", "liquidation"],
+		randomDoubleBattleMoves: ["venoshock", "toxic", "banefulbunker", "liquidation"],
+		tier: "CAP",
+	},
 	slowbromega: {
 		randomBattleMoves: ["calmmind", "scald", "psyshock", "slackoff", "fireblast", "psychic", "icebeam"],
 		randomDoubleBattleMoves: ["scald", "fireblast", "icebeam", "psychic", "thunderwave", "slackoff", "trickroom", "protect", "psyshock"],
